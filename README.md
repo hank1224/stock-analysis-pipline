@@ -6,7 +6,7 @@
 
 ETL工具：Airbyte
 
-中繼資料庫： AWS RDS postgresql
+中繼資料庫：AWS RDS postgresql
 
 BI工具：Metabase
 
@@ -14,7 +14,7 @@ BI工具：Metabase
 
 **選擇第二項**
 
-![image]()
+![image](https://github.com/hank1224/stock-analysis-pipline/blob/main/.github/img/goal.jpg)
 
 ## Defult admin account and port
 1. Airbyte:
@@ -43,7 +43,7 @@ docker compose specify file
 docker-compose -f YOUR-FILE.yml up
 ```
 
-## Setup Document Reference
+## Docker Setup Document Reference
 - [Airbyte](https://docs.airbyte.com/deploying-airbyte/local-deployment)
 - [Metabase](https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker)
 - [OpenMetadata](https://docs.open-metadata.org/v1.2.x/deployment/docker)
