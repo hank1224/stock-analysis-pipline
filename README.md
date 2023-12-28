@@ -2,19 +2,19 @@
 
 **主題：上市櫃公司在ESG社會責任和永續發展分析**
 
-資料來源：[台灣證券交易所API](https://openapi.twse.com.tw/)
+抓取資料來源：[台灣證券交易所API](https://openapi.twse.com.tw/)
 
-ETL工具：Airbyte
+![image](https://github.com/hank1224/stock-analysis-pipline/blob/main/.github/img/pipline.jpg)
 
-中繼資料庫：AWS RDS postgresql
-
-BI工具：Metabase
-
-## 課程目標
-
-**選擇第二項**
+**▼實作課程目標第二項**
 
 ![image](https://github.com/hank1224/stock-analysis-pipline/blob/main/.github/img/goal.jpg)
+
+## BI呈現圖
+
+![image](https://github.com/hank1224/stock-analysis-pipline/blob/main/.github/img/BI_2.jpg)
+
+![image](https://github.com/hank1224/stock-analysis-pipline/blob/main/.github/img/BI_3.jpg)
 
 ## Defult admin account and port
 1. Airbyte:
